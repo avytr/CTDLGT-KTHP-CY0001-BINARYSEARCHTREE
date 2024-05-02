@@ -25,7 +25,7 @@ Do đó, nhóm kính mong nhận được những lời góp ý của thầy đ�
 Nhóm xin chân thành cảm ơn!
 ________
 
-## Tài Liệu Tham khảo
+## Tài Liệu Tham Khảo
 1. CORMEN, T. H., LEISERSON, C., & Rivest, R. (1989). Introduction To Algorithms. United States: MIT Press.
 2. HCDC. (n.d.). Sở Y Tế TP. Hồ Chí Minh Trung Tâm Kiểm Soát Bệnh Tật. Retrieved from 8 loại vắc-xin phòng COVID-19 đã được cấp phép tại Việt Nam: https://hcdc.vn/hoidap/index/chitiet/27092973b1ad3fac17d53891de8b274f
 3. McMillan, M. (2007). Data Structures And Algorithms Using C#. ‎Cambridge: ‎Cambridge University Press.
